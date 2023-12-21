@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Developement**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, SQL, SQL, and PHP.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, SQL, and PHP.**
 
 - 📫 How to reach me **manivedi722@gmail.com**
 
